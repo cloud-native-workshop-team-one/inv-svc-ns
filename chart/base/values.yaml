@@ -6,7 +6,7 @@ global: {}
 replicaCount: 1
 logLevel: "INFO"
 cloudantBinding: "binding-sandbox-team-cloudant"
-databaseName: "inventory-dev-rr"
+databaseName: "inventory-dev-yks"
 image:
   repository: replace
   tag: replace
