@@ -3,3 +3,4 @@
     "CLOUDANT_CONFIG":"{\"apikey\":\"035n1ZruuZhgYmJmDI6Dsm-FlaGl-ZJE6wDGiI9x2t6a\",\"host\":\"1d2132ff-71df-4d36-a73d-1cc83fa054d5-bluemix.cloudantnosqldb.appdomain.cloud\",\"iam_apikey_description\":\"Auto-generated for key d06134b3-fcfe-4fdd-93ec-2b8898a26a0f\",\"iam_apikey_name\":\"yks\",\"iam_role_crn\":\"crn:v1:bluemix:public:iam::::serviceRole:Manager\",\"iam_serviceid_crn\":\"crn:v1:bluemix:public:iam-identity::a/0393aba289c44919a4d0351346380717::serviceid:ServiceId-0b1f927d-9562-40df-b5d9-6bf6ff10201e\",\"password\":\"cb9c630200b9d66c98bd75d19e46b98e\",\"port\": 443,\"url\":\"https://apikey-v2-273gf084vfp3fekqp1u8mf0jv4p905imsl06cqo7j8ax:cb9c630200b9d66c98bd75d19e46b98e@1d2132ff-71df-4d36-a73d-1cc83fa054d5-bluemix.cloudantnosqldb.appdomain.cloud\",\"username\":\"apikey-v2-273gf084vfp3fekqp1u8mf0jv4p905imsl06cqo7j8ax\"}"
 
 }
+

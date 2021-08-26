@@ -5,7 +5,7 @@ global: {}
 
 replicaCount: 1
 logLevel: "INFO"
-cloudantBinding: "binding-sandbox-team-cloudant"
+cloudantBinding: "binding-workshop-cldn-one"
 databaseName: "inventory-dev-yks"
 image:
   repository: replace
